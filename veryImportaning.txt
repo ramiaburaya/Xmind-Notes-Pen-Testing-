@@ -1,0 +1,2 @@
+the creds program is located on ~/.local/bin, is used to search for defualt creds for services
+creds search <tomcat> : for example
